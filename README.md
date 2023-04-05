@@ -41,25 +41,20 @@ Obrigada por acessar minha página no git, você também pode me encontrar:
 
 #
 
-<div align="right">
+
+
+
+
+
+
+<details>
+ <summary>✧*: .｡. 𝑮𝒊𝒕 𝑺𝒕𝒂𝒕𝒖𝒔 .｡.:*✧ </summary>
+ 
+ > ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4nor4&show_icons=true&theme=ocean_dark&hide=issues,contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g4nor4&langs_count=8&layout=compact&theme=ocean_dark) 
+
+</details>
 
 <img align="right" src="https://i.pinimg.com/originals/78/92/b3/7892b3afe5f6d0f23645e8d6ca31dd68.gif" width="35%">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4nor4&show_icons=true&theme=ocean_dark&hide=issues,contribs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g4nor4&langs_count=8&layout=compact&theme=ocean_dark)
-
-</div>
-
-<div align="left">
-
-
-
-</div>
-
-<div align="right" style="display: inline_block">
-
-</div>
 
 
 
