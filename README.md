@@ -1,10 +1,12 @@
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐍𝐨𝐫𝐚 ・.・✧・゜
 
 ### 𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:
+
 - Cursando faculdade de ADS🎓
 - Eu gosto fazer carinhos em gatos 😸 e de desenhar no meu tempo livre 🎨
 - Explorando o mundo de linguagens 💻
 - Português / Inglês 🌱
+
 
 ### 𝐀𝐩𝐫𝐞𝐧𝐝𝐞𝐧𝐝𝐨:
  
@@ -18,26 +20,30 @@
 
 </div>
 
+
+
 ### 𝐂𝐨𝐧𝐭𝐚𝐭𝐨: 
+Obrigada por acessar minha página no git, você também pode me encontrar: 
 
-Procurando novas pessoas na área para conversar e tomar um ☕, Pode me encontrar: 
+<img align="left" alt="EVA01" src="https://user-images.githubusercontent.com/90690022/229809728-5d31617a-16c9-4fbc-9cd6-92b35557350d.png" width=35%> 
 
-<img align="left" src="https://user-images.githubusercontent.com/90690022/229809728-5d31617a-16c9-4fbc-9cd6-92b35557350d.png" width=35%> 
+ -✧*: .｡.  
 
--my discord 
+-.｡.:*☆ <a href="https://twitter.com/bipblopbop">𝐦𝐲 𝐭𝐰𝐢𝐭𝐭𝐞𝐫</a>
 
--my twitter 
+ -<a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin">𝐦𝐲 𝐥𝐢𝐧𝐤𝐞𝐝𝐢𝐧</a>.｡.:*☆
 
--my linkedin
+ -.｡.:*☆<a href="ncrieiainda">𝐦𝐲 𝐢𝐧𝐬𝐭𝐚</a>
 
--my insta
+-.｡.:*✧ 
 
-# 
+-✧* 
 
+#
 
-<img align="left" src="https://i.pinimg.com/originals/78/92/b3/7892b3afe5f6d0f23645e8d6ca31dd68.gif" width="30%">
+<img align="right" src="https://i.pinimg.com/originals/78/92/b3/7892b3afe5f6d0f23645e8d6ca31dd68.gif" width="50%">
 
-<div align="right">
+<div align="left">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4nor4&show_icons=true&theme=ocean_dark&hide=issues,contribs)
 
@@ -48,5 +54,11 @@ Procurando novas pessoas na área para conversar e tomar um ☕, Pode me encontr
 
 
 
+<!-- 
+imagens que não utilizei
+----
 <img src="https://raw.githubusercontent.com/gist/jangxx/a6dbeaeb4d1ecf08358c8240e350f018/raw/05806d3d874f99cadf61d43a4ffa9e2d7da70d9d/nerv.svg" width="30%">
+
+
+-->
 
