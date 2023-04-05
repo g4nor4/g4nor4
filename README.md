@@ -41,21 +41,25 @@ Obrigada por acessar minha página no git, você também pode me encontrar:
 
 #
 
+<div align="right">
 
+<img align="right" src="https://i.pinimg.com/originals/78/92/b3/7892b3afe5f6d0f23645e8d6ca31dd68.gif" width="35%">
 
-<img align="right" src="https://i.pinimg.com/originals/78/92/b3/7892b3afe5f6d0f23645e8d6ca31dd68.gif" width="40%">
-
-<div align="left">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4nor4&show_icons=true&theme=ocean_dark&hide=issues,contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g4nor4&langs_count=8&layout=compact&theme=ocean_dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4nor4&show_icons=true&theme=ocean_dark&hide=issues,contribs)
 </div>
 
+<div align="left">
 
 
 
+</div>
 
+<div align="right" style="display: inline_block">
+
+</div>
 
 
 
@@ -63,7 +67,8 @@ Obrigada por acessar minha página no git, você também pode me encontrar:
 imagens que não utilizei
 ----
 <img src="https://raw.githubusercontent.com/gist/jangxx/a6dbeaeb4d1ecf08358c8240e350f018/raw/05806d3d874f99cadf61d43a4ffa9e2d7da70d9d/nerv.svg" width="30%">
-
+<img src="https://64.media.tumblr.com/b7d2e3f96ec596b8be30df6d91916847/tumblr_pjgxe2X4p41xdjegyo6_250.gifv" width="30%">
+<img src="https://64.media.tumblr.com/f7e1b0646ef9ecd20ca10bad5bc188e4/tumblr_pjgxe2X4p41xdjegyo2_250.gifv" width="30%">
 
 -->
 
