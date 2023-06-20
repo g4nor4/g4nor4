@@ -57,12 +57,7 @@ Obrigada por acessar minha página no git, você também pode me encontrar:
 <img align="right" src="https://i.pinimg.com/originals/78/92/b3/7892b3afe5f6d0f23645e8d6ca31dd68.gif" width="35%">
 
 
-<details>
- <summary> .｡.:*✧ </summary>
- 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/g4nor4/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/g4nor4/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/g4nor4/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
-</details>
 
 
 
@@ -80,5 +75,11 @@ imagens que não utilizei
 <img src="https://64.media.tumblr.com/b7d2e3f96ec596b8be30df6d91916847/tumblr_pjgxe2X4p41xdjegyo6_250.gifv" width="30%">
 <img src="https://64.media.tumblr.com/f7e1b0646ef9ecd20ca10bad5bc188e4/tumblr_pjgxe2X4p41xdjegyo2_250.gifv" width="30%">
 
+<details>
+ <summary> .｡.:*✧ </summary>
+ 
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/g4nor4/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/g4nor4/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/g4nor4/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
+</details>
 -->
 
