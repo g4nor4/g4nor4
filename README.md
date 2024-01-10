@@ -54,18 +54,6 @@ Obrigada por acessar minha página no git, você também pode me encontrar:
 
 </details>
 
-<img align="right" src="https://i.pinimg.com/originals/78/92/b3/7892b3afe5f6d0f23645e8d6ca31dd68.gif" width="35%">
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- 
@@ -74,6 +62,7 @@ imagens que não utilizei
 <img src="https://raw.githubusercontent.com/gist/jangxx/a6dbeaeb4d1ecf08358c8240e350f018/raw/05806d3d874f99cadf61d43a4ffa9e2d7da70d9d/nerv.svg" width="30%">
 <img src="https://64.media.tumblr.com/b7d2e3f96ec596b8be30df6d91916847/tumblr_pjgxe2X4p41xdjegyo6_250.gifv" width="30%">
 <img src="https://64.media.tumblr.com/f7e1b0646ef9ecd20ca10bad5bc188e4/tumblr_pjgxe2X4p41xdjegyo2_250.gifv" width="30%">
+<img align="right" src="https://i.pinimg.com/originals/78/92/b3/7892b3afe5f6d0f23645e8d6ca31dd68.gif" width="35%">
 
 <details>
  <summary> .｡.:*✧ </summary>
